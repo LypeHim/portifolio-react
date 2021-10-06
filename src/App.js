@@ -6,6 +6,7 @@ function App() {
       <a
         href="https://pt.wikipedia.org/wiki/Valorant"
         target="_blank"
+        rel="noreferrer"
         >
         Link externo teste Analytics
       </a>
